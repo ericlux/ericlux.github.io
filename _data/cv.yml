@@ -1,79 +1,67 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Eric Sager Luxenberg
-    - name: Date of Birth
-      value: September 25th 1996
-    - name: Languages
-      value: English
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Eric Sager Luxenberg
+#     - name: Date of Birth
+#       value: September 25th 1996
+#     - name: Languages
+#       value: English
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: Stanford University
-      year: TBD
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Masters in Electrical Engineering
-      institution: Stanford University
-      year: 2020
-      description:
-        - Description 1.
-        - Description 2.
-    - title: Bachelors in Mathematics
-      institution: Stanford University
-      year: 2019
-      description:
-        - Description 1.
-        - Description 2.
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: PhD
+#       institution: Stanford University
+#       year: 2020-now
+#       description:
+#         - Advised by Professor Stephen Boyd
+#         - title: Research interests
+#           contents:
+#             - Exploiting convex structure in nonconvex problems
+#             - Robust optimization
+#     - title: Masters in Electrical Engineering
+#       institution: Stanford University
+#       year: 2020
+#       description:
+#         - Concentration in signal processing, control and optimization
+#     - title: Bachelors in Mathematics
+#       institution: Stanford University
+#       year: 2019
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Graduate research intern
+#       institution: BlackRock AI Labs
+#       year: 2021-222
+#       description:
+#         - Developed a model predictave control (MPC) based stochastic crontrol framework for mixed illiquid/liquid portfolios
+#         # - Description 2.
+#         # - title: Description 3.
+#         #   contents:
+#         #     - Sub-description 1.
+#         #     - Sub-description 2.
+#     - title: Instructor
+#       insitution: Stanford University
+#       year: 2022
+#       description:
+#       - Instructor for EE364A (Convex Optimization I) summer quarter
+#     - title: Machine learning consultant
+#       institution: 3T Biosciences
+#       year: 2020
+#       description:
+#         - Designed and implemented a pipeline for predicting T-cell activity based on sequence information derived from a high-diversity, proprietary platform.
     
-# - title: Open Source Projects
-#   type: time_table
+# # - title: Open Source Projects
+# #   type: time_table
+# #   contents:
+# #     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+# #       year: 2015-now
+# #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+
+# - title: Other Interests
+#   type: list
 #   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-    - title: Topic 2.
-      items:
-        - Description 1.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Cooking, powerlifting, scuba diving.
+#     - <u>Hobbies:</u> Cooking, powerlifting, scuba diving.
