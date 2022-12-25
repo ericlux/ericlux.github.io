@@ -10,6 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>Office:</p>
     <p>Packard 243</p>
     <p>350 Serra Mall</p>
     <p>Stanford, CA 94305</p>

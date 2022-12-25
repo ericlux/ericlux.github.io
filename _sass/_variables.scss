@@ -23,6 +23,14 @@ $pink-color:          #f92080 !default;
 $pink-color-light:    #ffdddd !default;
 $yellow-color:        #efcc00 !default;
 
+// $my-dark-color:        #5cb78a !default;
+// $my-dark-color:        rgb(87, 180, 126);
+$my-dark-color:        rgb(91,94,172);
+$my-dark-color:          lighten($my-dark-color, 25%);
+
+// $my-light-color:       #2f6897 !default;
+$my-light-color:       rgb(91,94,172);
+
 $grey-color:          #828282 !default;
 $grey-color-light:    lighten($grey-color, 40%);
 $grey-color-dark:     #1C1C1D;
