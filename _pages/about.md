@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a third year PhD student in the Electrical Engineering department at
+I am a fourth year PhD student in the Electrical Engineering department at
 Stanford University, advised by Professor Stephen Boyd. I am broadly
 interested in convex optimization algorithms and applications to control,
 machine learning, and finance. 
