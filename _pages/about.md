@@ -2,26 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='mailto:ericlux@stanford.edu'>ericlux@stanford.edu</a>
+subtitle: <a href='mailto:ericsagerlux@gmail.com'>ericsagerlux@gmail.com</a>
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_2.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Office:</p>
-    <p>Packard 243</p>
-    <p>350 Serra Mall</p>
-    <p>Stanford, CA 94305</p>
+  # address: >
+  #   <p>Office:</p>
+  #   <p>Packard 243</p>
+  #   <p>350 Serra Mall</p>
+  #   <p>Stanford, CA 94305</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-I am a fourth year PhD student in the Electrical Engineering department at
-Stanford University, advised by Professor Stephen Boyd. I am broadly
+I am a research scientist at [Gridmatic](https://www.gridmatic.com/), where I
+work on, among other things, optimal control of grid scale batteries and
+convergence bidding in US power markets.
+I completed my PhD in the Electrical Engineering department at
+Stanford University, where I was advised by Professor Stephen Boyd. I am broadly
 interested in convex optimization algorithms and applications to control,
 machine learning, and finance. 
 In my free time I like to cook for my friends and family, and occasionally try to move
